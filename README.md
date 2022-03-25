@@ -1,1 +1,1 @@
-# eureka-config-central-server
+# config-central-server
