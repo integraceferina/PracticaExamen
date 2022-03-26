@@ -4,8 +4,8 @@ spring:
   datasource:
     driverClassName: org.h2.Driver
     url: jdbc:mysql://localhost:3306/movies
-    username: sa
-    password: sa
+    username: root
+    password: Integra882!
   sql:
     init:
       dataLocations: classpath:/movie-service.sql
