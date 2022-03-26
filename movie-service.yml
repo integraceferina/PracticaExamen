@@ -3,7 +3,7 @@ spring:
     name: movie-service
   datasource:
     driverClassName: org.h2.Driver
-    url: jdbc:h2:~/examen;DB_CLOSE_DELAY=-1
+    url: jdbc:mysql://localhost:3306/movies
     username: sa
     password: sa
   sql:
